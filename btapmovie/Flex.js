@@ -8,7 +8,7 @@ export default class FlexDimension extends Component{
         return(
             <View style={{flex:1}}>
                 <View style={{flex:10,backgroundColor:'#8b0000',alignItems:"center"}}>
-                    <Text style={{marginTop:20,color:'white',fontSize:20}}>Movie Explorer</Text>
+                    <Text style={{marginTop:20,color:'white',fontSize:20}}>Movie Chiến Explorer</Text>
                 </View>
 
                 <View style={style.flex1}>
